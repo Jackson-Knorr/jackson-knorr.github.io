@@ -317,7 +317,17 @@ compress_html:
   ignore:
     envs: development
 
-
+# Navigation
+main:
+  - title: "About"
+    url: /about/
+  - title: "Game Design"
+    url: /design/
+  - title: "Magic"
+    url: /magic/
+  - title: "Resume"
+    url: /resume/
+    
 # Defaults
 defaults:
   # _posts
