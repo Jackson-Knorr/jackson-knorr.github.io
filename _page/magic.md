@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Magic: The Gathering Experience"
+permalink: /magic/
 ---
 
 ## Competitive Magic
