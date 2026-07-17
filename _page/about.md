@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About Me"
+permalink: /about/
 ---
 
 I am a competitive trading card game player and aspiring game designer.
