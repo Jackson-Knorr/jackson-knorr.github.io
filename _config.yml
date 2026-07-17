@@ -319,12 +319,27 @@ compress_html:
 
 # Navigation
 main:
+main:
   - title: "About"
     url: /about/
+
+  - title: "Magic Experience"
+    children:
+      - title: "Competitive History"
+        url: /magic/competitive-history/
+      - title: "Cube Design"
+        url: /magic/cube-design/
+
   - title: "Game Design"
-    url: /design/
-  - title: "Magic"
-    url: /magic/
+    children:
+      - title: "Original TCG"
+        url: /game-design/original-tcg/
+      - title: "Design Philosophy"
+        url: /game-design/design-philosophy/
+
+  - title: "Production Experience"
+    url: /production/
+
   - title: "Resume"
     url: /resume/
     
